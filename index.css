@@ -1,0 +1,73 @@
+body {
+    font-family: 'Segoe UI', Tahoma;
+    background-color: rgb(185, 20, 200);
+}
+
+.title {
+    color: blue;
+    text-align: center;
+    font-size: 12px;
+    background-color: blanchedalmond;
+    box-shadow: 4px 5px 12px rgba(0, 0, 0, 6);
+    width: 100%;
+}
+
+.bio{
+    color: blue;
+    text-align: center;
+    font-size: 12px;
+    background-color: blanchedalmond;
+    box-shadow: 4px 5px 12px rgba(0, 0, 0, 6);
+    width: 100%;
+}
+
+.data {
+    background-color: burlywood;
+    display: flex;
+    left: 210px;
+    top: 200px;
+    padding: 60px;
+    border-radius: 20;
+    box-shadow: 4px 5px 12px rgba(0, 0, 0, 6);
+    font-weight: bold;
+}
+
+.data p {
+    margin-left: 40px;
+    font-weight: bold;
+}
+
+.data img {
+    margin-right: 10px;
+    box-shadow: 4px 5px 12px rgba(0, 0, 0, 6);
+}
+.video {
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+    position: absolute;
+    top: 280px;
+    right: 40px;
+}
+
+.video video {
+    width: 300px;
+    height: 200px;
+}
+
+.vidaud {
+    display: block;
+}
+
+.audio {
+    position: absolute;
+    top: 140px;
+    right: 40px;
+    background-color: aliceblue;
+    border-radius: 20px;
+    padding: 10px;
+}
+
+p {
+    font-size: small;
+}
