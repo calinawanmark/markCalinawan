@@ -22,7 +22,7 @@ body {
 }
 
 .data {
-    background-color: burlywood;
+    background-color: rgb(97, 232, 6);
     display: flex;
     left: 210px;
     top: 200px;
