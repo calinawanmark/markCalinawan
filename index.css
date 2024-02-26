@@ -71,3 +71,13 @@ body {
 p {
     font-size: small;
 }
+
+#datetime {
+    background-color: rgb(182, 16, 207);
+    border-radius: 20px;
+    position: fixed;
+    bottom: 80px;
+    right: 600px;
+    padding: 10px;
+
+}
